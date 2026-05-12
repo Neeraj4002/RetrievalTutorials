@@ -20,7 +20,7 @@ Generally builders will use Multi-Query for two main reasons: Enhance a suboptim
 
 #### **Enhance a suboptimal query**
 
-Users don't always give the best queries, we can't blame them though - They are just trying to user your product, not construct the perfect query.
+Users don't always give the best queries, we can't blame them though - They are just trying to use your product, not construct the perfect query.
 
 To help with this, we turn to the multi-query method to help us fill in any gaps to a users query.
 
